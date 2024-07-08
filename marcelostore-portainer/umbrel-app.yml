@@ -3,24 +3,25 @@ id: marcelostore-portainer
 name: Portainer
 tagline: Replace this tagline with your app's tagline
 icon: https://getumbrel.github.io/umbrel-apps-gallery/portainer/icon.svg
-category: Docker
+category: Development
 version: "1.0.0"
-port: 9000
+port: 4000
 description: >-
   Add your app's description here.
 
 
   You can also add newlines!
 
-developer: Portainer
-website: https://portainer.io
-submitter: Marcelo
+developer: Umbrel
+website: https://umbrel.com
+submitter: Umbrel
 submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/portainer/portainer
-support: https://github.com/portainer/portainer/issues
-port: 9000
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
-  - https://getumbrel.github.io/umbrel-apps-gallery/portainer/1.jpg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
