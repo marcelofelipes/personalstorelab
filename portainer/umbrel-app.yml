@@ -1,20 +1,30 @@
 manifestVersion: 1
-id: CustomPortainer
-name: Portainer
+id: customteste
+name: Custom
 tagline: Replace this tagline with your app's tagline
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.0"
 port: 9000
 description: >-
-Latest Portainer
-developer: Portainer
-website: https://www.portainer.io/
-submitter: Marcelo
+  Add your app's description here.
 
+
+  You can also add newlines!
+
+developer: Umbrel
+website: https://umbrel.com
+submitter: Umbrel
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
 path: ""
-defaultUsername: "admin"
-defaultPassword: "admin"
+defaultUsername: ""
+defaultPassword: ""
