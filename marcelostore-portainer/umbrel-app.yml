@@ -4,7 +4,7 @@ name: Portainer
 tagline: Replace this tagline with your app's tagline
 icon: https://getumbrel.github.io/umbrel-apps-gallery/portainer/icon.svg
 category: Docker
-version: "Latest"
+version: "1.0.0"
 port: 9000
 description: >-
   Add your app's description here.
