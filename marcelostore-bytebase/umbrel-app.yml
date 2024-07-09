@@ -1,0 +1,27 @@
+manifestVersion: 1.1
+id: marcelostore-bytebase
+category: database
+name: Bytebase
+version: "2.20.0"
+tagline: Database DevOps for Developers and DBAs
+icon: https://bytebase.com/favicon.ico
+description: >-
+  Bytebase is a web-based, zero-config, dependency-free database schema change and version control management tool for Developers and DBAs.
+  It is designed to help teams improve their database DevOps experience.
+developer: Bytebase
+website: https://bytebase.com
+dependencies: []
+repo: https://github.com/bytebase/bytebase
+support: https://github.com/bytebase/bytebase/issues
+port: 8080
+gallery:
+  - https://bytebase.com/assets/screenshots/bytebase-dashboard.png
+  - https://bytebase.com/assets/screenshots/bytebase-sql-review.png
+path: "/"
+defaultUsername: ""
+deterministicPassword: false
+torOnly: false
+releaseNotes: >-
+  This version 2.20.0 includes several new features and bug fixes. For detailed release notes, visit: https://github.com/bytebase/bytebase/releases/tag/v2.20.0
+submitter: Marcelo
+submission: https://github.com/marcelofelipes/personalstorelab/commit/your_commit_hash_here
